@@ -1,5 +1,18 @@
 # Muscle Ver3
 
+## diary
+### 4/5
+今回のトピック
+- Laravel内でのVue.jsとの連携
+- Vue.js内でmedia queryが働くかどうかのテスト
+
+次回以降の流れ
+- Vue-routerの設定
+- media queryとSassの設定方法！
+
+### 4/*
+
+
 
 ## Tips
 ---
