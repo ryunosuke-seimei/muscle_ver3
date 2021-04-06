@@ -9,7 +9,8 @@
 <body>
 <h1>sample</h1>
 <div id="app">
-    <example-component></example-component>
+  <router-view />
+
 </div>
 
 <script src="{{ asset('/js/app.js') }}"></script>
